@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lbrce.deveops3.UserValidationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.243 s - in com.lbrce.deveops3.UserValidationTest
